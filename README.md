@@ -8,3 +8,6 @@
 - `files.json` 은 게임이 이 묶음에서 받을 파일 목록(경로·크기·SHA-256)입니다.
 
 파일 289개 · 58.4 MiB
+
+## 버전 폴더
+`v/<게임 커밋>/` 마다 그 게임 판이 쓰는 자산을 둡니다. 게임은 GitHub Pages 주소 https://useht.github.io/zombie-defense-assets/v/<게임 커밋>/ 에서 받습니다(jsDelivr 의 GitHub 저장소 한도 50MB 때문에 Pages 를 씀).

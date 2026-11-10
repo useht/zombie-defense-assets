@@ -1,0 +1,1007 @@
+좀비 디펜스 — 제3자 라이선스 고지 (THIRD-PARTY NOTICES)
+빌드 zombie-defense-assets
+이 게임에 들어 있는 오픈소스 소프트웨어·서체·자산의 저작권·허가 고지입니다. 각 원문을 그대로 싣습니다.
+
+== 소프트웨어 0개 (package-lock.json 운영 의존) ==
+
+== 서체 0개 (부분집합으로 줄여 실음) ==
+
+== 그림·모델·소리 자산 169개 (라이선스별) ==
+
+========================================================================
+CC0 1.0 Universal (퍼블릭 도메인 헌정) — 134개 · https://creativecommons.org/publicdomain/zero/1.0/
+표시 의무는 없지만 출처를 기록해 둡니다.
+========================================================================
+
+Fabric 036 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Fabric036
+  고친 점: zm-butcher 몸의 앞치마 재질(몸 앞면에 붙인 판, 골반·허벅지 가중치) — 아틀라스 한 칸, KTX2 압축
+  파일: public/assets/actors/zm-butcher.glb, public/assets/actors/zm-butcher.lod.glb
+
+Metal 063 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal063
+  고친 점: 무기 재질로 씀(1K, KTX2 압축)
+  파일: public/assets/weapons/ak47.glb, public/assets/weapons/ak47.lt.glb
+
+Rope 001 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Rope001
+  고친 점: 원본에 재질이 없는 소품(밧줄)에 상자 투영 UV 로 입힘, 512 KTX2 압축
+  파일: public/assets/actors/props/rope.glb
+
+Wood 092 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Wood092
+  고친 점: 무기 재질로 씀(1K, KTX2 압축)
+  파일: public/assets/weapons/ak47.glb, public/assets/weapons/ak47.lt.glb
+
+Bolt Action Rifle 7.62 — Mateusz Sadek
+  출처: https://polyhaven.com/a/bolt_action_rifle_7_62
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/sniper.glb
+
+Metal Jerrycan — Sean Buckley
+  출처: https://polyhaven.com/a/metal_jerrycan
+  고친 점: 부품 고름·합침, 가장 긴 변 1m·가운데 원점으로, 줄임(삼각형 1,200 이하), 재질 512 KTX2 압축
+  파일: public/assets/actors/props/can.glb
+
+Propane Tank — Slinc
+  출처: https://polyhaven.com/a/propane_tank
+  고친 점: 부품 고름·합침, 가장 긴 변 1m·가운데 원점으로, 줄임(삼각형 1,200 이하), 재질 512 KTX2 압축
+  파일: public/assets/actors/props/tank.glb
+
+Service Pistol — Mateusz Sadek
+  출처: https://polyhaven.com/a/service_pistol
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/pistol.glb, public/assets/weapons/pistol.lt.glb
+
+Wooden Axe — Ulan Cabanilla
+  출처: https://polyhaven.com/a/wooden_axe
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/axe.glb, public/assets/weapons/axe.lt.glb
+
+Concrete 042 C — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Concrete042C
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/concrete-c.ktx2, public/assets/env/mat/concrete-n.ktx2, public/assets/env/mat/concrete-r.ktx2, public/assets/env/mat/concrete-m.ktx2
+
+Corrugated Steel 009 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=CorrugatedSteel009
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/corrugated-c.ktx2, public/assets/env/mat/corrugated-n.ktx2, public/assets/env/mat/corrugated-r.ktx2, public/assets/env/mat/corrugated-m.ktx2, public/assets/env/mat/corrugated-c-lt.ktx2, public/assets/env/mat/corrugated-n-lt.ktx2, public/assets/env/mat/corrugated-r-lt.ktx2, public/assets/env/mat/corrugated-m-lt.ktx2
+
+Fabric 030 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Fabric030
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/sandbag-c.ktx2, public/assets/env/mat/sandbag-n.ktx2, public/assets/env/mat/sandbag-r.ktx2
+
+Fabric 066 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Fabric066
+  고친 점: 색·노멀·거칠기로 위·왼쪽 빛을 구워 512² 한 장(WebP)으로, 색조·밝기 조정 — UI 판 재질(방수포 — 정비·출격 넓은 바탕)
+  파일: public/assets/kit/tarp.webp
+
+Ground 071 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Ground071
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/dirt-c.ktx2, public/assets/env/mat/dirt-n.ktx2, public/assets/env/mat/dirt-r.ktx2, public/assets/env/mat/dirt-c-lt.ktx2, public/assets/env/mat/dirt-n-lt.ktx2, public/assets/env/mat/dirt-r-lt.ktx2
+
+Ground 110 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Ground110
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/ground-c.ktx2, public/assets/env/mat/ground-n.ktx2, public/assets/env/mat/ground-r.ktx2, public/assets/env/mat/ground-c-lt.ktx2, public/assets/env/mat/ground-n-lt.ktx2, public/assets/env/mat/ground-r-lt.ktx2
+
+Metal 038 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal038
+  고친 점: 색·노멀·거칠기로 위·왼쪽 빛을 구워 512² 한 장(WebP)으로, 색조·밝기 조정 — UI 판 재질(청강 — 희귀도 둘째)
+  파일: public/assets/kit/bluesteel.webp
+
+Metal 041 B — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal041B
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/steel-c.ktx2, public/assets/env/mat/steel-n.ktx2, public/assets/env/mat/steel-r.ktx2, public/assets/env/mat/steel-m.ktx2, public/assets/env/mat/steel-c-lt.ktx2, public/assets/env/mat/steel-n-lt.ktx2, public/assets/env/mat/steel-r-lt.ktx2, public/assets/env/mat/steel-m-lt.ktx2
+
+Metal 042 B — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal042B
+  고친 점: 색·노멀·거칠기로 위·왼쪽 빛을 구워 512² 한 장(WebP)으로, 색조·밝기 조정 — UI 판 재질(황동 — 희귀도 셋째·군번줄)
+  파일: public/assets/kit/brass.webp
+
+Metal 047 B — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal047B
+  고친 점: 색·노멀·거칠기로 위·왼쪽 빛을 구워 512² 한 장(WebP)으로, 색조·밝기 조정 — UI 판 재질(붉은 금 — 희귀도 넷째(전설))
+  파일: public/assets/kit/redgold.webp
+
+Metal 054 B — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal054B
+  고친 점: 색·노멀·거칠기로 위·왼쪽 빛을 구워 512² 한 장(WebP)으로, 색조·밝기 조정 — UI 판 재질(그을린 강판 — 판 바탕·쇠 희귀도)
+  파일: public/assets/kit/steel.webp
+
+Planks 023 A — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Planks023A
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/deck-c.ktx2, public/assets/env/mat/deck-n.ktx2, public/assets/env/mat/deck-r.ktx2, public/assets/env/mat/deck-m.ktx2, public/assets/env/mat/deck-c-lt.ktx2, public/assets/env/mat/deck-n-lt.ktx2, public/assets/env/mat/deck-r-lt.ktx2, public/assets/env/mat/deck-m-lt.ktx2
+
+Planks 037 A — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Planks037A
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/plank-c.ktx2, public/assets/env/mat/plank-n.ktx2, public/assets/env/mat/plank-r.ktx2, public/assets/env/mat/plank-m.ktx2, public/assets/env/mat/plank-c-lt.ktx2, public/assets/env/mat/plank-n-lt.ktx2, public/assets/env/mat/plank-r-lt.ktx2, public/assets/env/mat/plank-m-lt.ktx2
+
+Road 015 C — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Road015C
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/road-c.ktx2, public/assets/env/mat/road-n.ktx2, public/assets/env/mat/road-r.ktx2, public/assets/env/mat/road-c-lt.ktx2, public/assets/env/mat/road-n-lt.ktx2, public/assets/env/mat/road-r-lt.ktx2
+
+Rust 009 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Rust009
+  고친 점: 1024² 로 줄여 KTX2 압축, AO 를 색에 구움, 거칠기·금속을 흑백 한 장씩으로 나눔
+  파일: public/assets/env/mat/rust-c.ktx2, public/assets/env/mat/rust-n.ktx2, public/assets/env/mat/rust-r.ktx2, public/assets/env/mat/rust-c-lt.ktx2, public/assets/env/mat/rust-n-lt.ktx2, public/assets/env/mat/rust-r-lt.ktx2
+
+Metal 063 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal063
+  고친 점: 무기 재질로 씀(1K, KTX2 압축). 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/armor.webp, public/assets/cardart/evo_storm.webp, public/assets/cardart/fire.webp, public/assets/cardart/icon-rifle.webp, public/assets/cardart/k_berserk.webp, public/assets/cardart/k_glass.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/k_tempo.webp, public/assets/cardart/move.webp, public/assets/cardart/reload.webp, public/assets/cardart/shield.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_medic_squad.webp, public/assets/cardart/sp_sheriff_gunner.webp, public/assets/cardart/squad.webp, public/assets/cardart/wpn_rifle.webp
+
+Wood 092 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Wood092
+  고친 점: 무기 재질로 씀(1K, KTX2 압축). 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/armor.webp, public/assets/cardart/evo_storm.webp, public/assets/cardart/fire.webp, public/assets/cardart/icon-rifle.webp, public/assets/cardart/k_berserk.webp, public/assets/cardart/k_glass.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/k_tempo.webp, public/assets/cardart/move.webp, public/assets/cardart/reload.webp, public/assets/cardart/shield.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_medic_squad.webp, public/assets/cardart/sp_sheriff_gunner.webp, public/assets/cardart/squad.webp, public/assets/cardart/wpn_rifle.webp
+
+Concrete 042 C — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Concrete042C
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Corrugated Steel 009 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=CorrugatedSteel009
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Fabric 030 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Fabric030
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Ground 071 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Ground071
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Ground 110 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Ground110
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Metal 041 B — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Metal041B
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Planks 023 A — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Planks023A
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Planks 037 A — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Planks037A
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Road 015 C — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Road015C
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Rust 009 — ambientCG (Lennart Demes)
+  출처: https://ambientcg.com/view?id=Rust009
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Mesh2Motion — human skeleton & animations — Mesh2Motion contributors
+  출처: https://github.com/Mesh2Motion/mesh2motion-app/tree/main/static/assets/human
+  고친 점: 클립 파일은 원본 그대로(24개). 뼈대는 몸 파일 안에서 각 몸(Rocketbox·Fab 좀비)의 쉼 자세에 맞춰 세움. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/aim.webp, public/assets/cardart/armor.webp, public/assets/cardart/blast.webp, public/assets/cardart/burn_blast.webp, public/assets/cardart/chain_blast.webp, public/assets/cardart/drone.webp, public/assets/cardart/evo_cannon.webp, public/assets/cardart/evo_golden.webp, public/assets/cardart/evo_hellfire.webp, public/assets/cardart/evo_plague.webp, public/assets/cardart/evo_rail.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/frost.webp, public/assets/cardart/headshot.webp, public/assets/cardart/ignite.webp, public/assets/cardart/k_berserk.webp, public/assets/cardart/k_bighead.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_frost.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/k_priest.webp, public/assets/cardart/k_purist.webp, public/assets/cardart/k_turret.webp, public/assets/cardart/legs.webp, public/assets/cardart/mark.webp, public/assets/cardart/mine.webp, public/assets/cardart/move.webp, public/assets/cardart/pierce.webp, public/assets/cardart/poison.webp, public/assets/cardart/reload.webp, public/assets/cardart/rescue.webp, public/assets/cardart/shards.webp, public/assets/cardart/shatter.webp, public/assets/cardart/shield.webp, public/assets/cardart/shock.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_demolition_blast.webp, public/assets/cardart/sp_demolition_burn.webp, public/assets/cardart/sp_mechanic_gun.webp, public/assets/cardart/sp_medic_field.webp, public/assets/cardart/sp_medic_squad.webp, public/assets/cardart/sp_sheriff_gunner.webp, public/assets/cardart/sp_sheriff_sniper.webp, public/assets/cardart/squad.webp, public/assets/cardart/stun.webp, public/assets/cardart/turret_flame.webp, public/assets/cardart/turret_mg.webp, public/assets/cardart/turret_tesla.webp, public/assets/cardart/vital.webp, public/assets/cardart/wall.webp, public/assets/cardart/wall_frost.webp, public/assets/cardart/wall_push.webp, public/assets/cardart/wpn_flame.webp, public/assets/cardart/wpn_grenade.webp, public/assets/cardart/wpn_minigun.webp, public/assets/cardart/wpn_revolver.webp, public/assets/cardart/wpn_shock.webp, public/assets/cardart/wpn_shotgun.webp, public/assets/cardart/wpn_smg.webp, public/assets/cardart/wpn_sniper.webp, public/assets/cardart/wpn_xbow.webp
+
+High-poly AK-47 — Lamoot
+  출처: https://opengameart.org/content/high-poly-ak-47
+  고친 점: 모디파이어 적용·합침, 0.88m 로 축소, 손잡이를 원점으로, 줄임(약 30%), 상자 투영 UV, ambientCG 재질 입힘. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/armor.webp, public/assets/cardart/evo_storm.webp, public/assets/cardart/fire.webp, public/assets/cardart/icon-rifle.webp, public/assets/cardart/k_berserk.webp, public/assets/cardart/k_glass.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/k_tempo.webp, public/assets/cardart/move.webp, public/assets/cardart/reload.webp, public/assets/cardart/shield.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_medic_squad.webp, public/assets/cardart/sp_sheriff_gunner.webp, public/assets/cardart/squad.webp, public/assets/cardart/wpn_rifle.webp
+
+Barrel_01 — Jorge Camacho
+  출처: https://polyhaven.com/a/Barrel_01
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Ammo Box — DanKit
+  출처: https://polyhaven.com/a/ammo_box
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: mat, reload, sp_mechanic_gun, sp_medic_field, supply, turret_mg
+  파일: public/assets/cardart/
+
+Barrel 03 — Serhii Khromov
+  출처: https://polyhaven.com/a/barrel_03
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Barrel Stove — MP
+  출처: https://polyhaven.com/a/barrel_stove
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: vital
+  파일: public/assets/cardart/
+
+Concrete Road Barrier — Amal Kumar
+  출처: https://polyhaven.com/a/concrete_road_barrier
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: k_bulwark, sp_mechanic_gun
+  파일: public/assets/cardart/
+
+Concrete Road Barrier 02 — Amal Kumar
+  출처: https://polyhaven.com/a/concrete_road_barrier_02
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: k_bulwark
+  파일: public/assets/cardart/
+
+Covered Car — MP
+  출처: https://polyhaven.com/a/covered_car
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Dead Tree Trunk — Rob Tuytel
+  출처: https://polyhaven.com/a/dead_tree_trunk
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Dead Tree Trunk 02 — Jenelle van Heerden, Rico Cilliers
+  출처: https://polyhaven.com/a/dead_tree_trunk_02
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Dry Branches Medium 01 — Rico Cilliers
+  출처: https://polyhaven.com/a/dry_branches_medium_01
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Freight Station — Sergej Majboroda
+  출처: https://polyhaven.com/a/freight_station
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Grass Medium 02 — Rico Cilliers
+  출처: https://polyhaven.com/a/grass_medium_02
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Industrial Wall Lamp — Kuutti Siitonen
+  출처: https://polyhaven.com/a/industrial_wall_lamp
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Metal Jerrycan Green — Ulan Cabanilla
+  출처: https://polyhaven.com/a/metal_jerrycan_green
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: gear, k_priest, mat, turret_flame
+  파일: public/assets/cardart/
+
+Modular Electricity Poles — James Ray Cock
+  출처: https://polyhaven.com/a/modular_electricity_poles
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Namaqualand Boulder 02 — Greg Zaal, Rico Cilliers
+  출처: https://polyhaven.com/a/namaqualand_boulder_02
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Old Military Compressor — Brian Speight
+  출처: https://polyhaven.com/a/old_military_compressor
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: gear, turret_tesla
+  파일: public/assets/cardart/
+
+Old Military Crate — Jack Mava
+  출처: https://polyhaven.com/a/old_military_crate
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: k_jackpot, k_turret, mat, supply, turret_mg, xp
+  파일: public/assets/cardart/
+
+Old Tyre — MP
+  출처: https://polyhaven.com/a/old_tyre
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Power Box 01 — Rico Cilliers, Yann Kervran
+  출처: https://polyhaven.com/a/power_box_01
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: gear, turret_tesla
+  파일: public/assets/cardart/
+
+Propane Tank — Slinc
+  출처: https://polyhaven.com/a/propane_tank
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: gear, turret_flame
+  파일: public/assets/cardart/
+
+Rusted Wheel Rim 01 — John Hutcheson
+  출처: https://polyhaven.com/a/rusted_wheel_rim_01
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Trashbag — Benny Weimer
+  출처: https://polyhaven.com/a/trashbag
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Tree Stump 01 — Rob Tuytel
+  출처: https://polyhaven.com/a/tree_stump_01
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Utility Box 02 — James Ray Cock
+  출처: https://polyhaven.com/a/utility_box_02
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Wooden Ladder — Miroslav Turura
+  출처: https://polyhaven.com/a/wooden_ladder
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Wooden Military Crate — Prabhjinder Singh
+  출처: https://polyhaven.com/a/wooden_military_crate
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다) · 피사체로 놓인 그림: icon-mat, k_turret, mat, reload
+  파일: public/assets/cardart/
+
+Worn Metal Rack — Luca B
+  출처: https://polyhaven.com/a/worn_metal_rack
+  고친 점: 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축. 판 안 장면의 배경으로 함께 렌더됨(그림마다 보이는 정도가 다르다)
+  파일: public/assets/cardart/
+
+Three Flesh Impacts — jawbutch
+  출처: https://freesound.org/s/344409/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+Huge Explosion Part 1 - Shockwave — bevibeldesign
+  출처: https://freesound.org/s/366091/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+Sizzle / Acid Burn — bottles
+  출처: https://freesound.org/s/382313/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Flamethrower_Weapon_Long_Bursts — AslakHostaker
+  출처: https://freesound.org/s/395039/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/amb.73b706d7.webm, public/audio/amb.73b706d7.m4a
+
+goreSplat — ThefitzyG
+  출처: https://freesound.org/s/414296/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+VisceralBulletImpacts — u1769092
+  출처: https://freesound.org/s/423301/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+Wind through trees (loop) — NomadApe
+  출처: https://freesound.org/s/444921/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/amb.73b706d7.webm, public/audio/amb.73b706d7.m4a, public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a
+
+large explosion 1 — V-ktor
+  출처: https://freesound.org/s/482993/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+Firecracker Explosion — unfa
+  출처: https://freesound.org/s/609588/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+DCA Fire_Acid Spit — darcyadam
+  출처: https://freesound.org/s/651498/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+A rifle being dry fired once — serøutōnin--deprivəd
+  출처: https://freesound.org/s/725402/
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+Impact Sounds — Kenney
+  출처: https://kenney.nl/assets/impact-sounds
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a, public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Interface Sounds — Kenney
+  출처: https://kenney.nl/assets/interface-sounds
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a
+
+RPG Audio — Kenney
+  출처: https://kenney.nl/assets/rpg-audio
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a, public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+Sci-fi Sounds — Kenney
+  출처: https://kenney.nl/assets/sci-fi-sounds
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a, public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+UI Audio — Kenney
+  출처: https://kenney.nl/assets/ui-audio
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a
+
+Mesh2Motion — human skeleton & animations — Mesh2Motion contributors
+  출처: https://github.com/Mesh2Motion/mesh2motion-app/tree/main/static/assets/human
+  고친 점: 클립 파일은 원본 그대로(31개). 뼈대는 몸 파일 안에서 각 몸(Rocketbox·Fab 좀비)의 쉼 자세에 맞춰 세움
+  파일: public/assets/actors/clips/, public/assets/actors/sv-mil01.glb, public/assets/actors/sv-mil02.glb, public/assets/actors/sv-mil04.glb, public/assets/actors/sv-mil05.glb, public/assets/actors/sv-mil05.lod.glb, public/assets/actors/sv-milf01.glb, public/assets/actors/zm-butcher.glb, public/assets/actors/zm-butcher.lod.glb, public/assets/actors/zm-sfhazmat.glb, public/assets/actors/zm-sfhazmat.lod.glb, public/assets/actors/zm-sfwalk.glb, public/assets/actors/zm-sfwalk.lod.glb, public/assets/actors/zm-tf10.glb, public/assets/actors/zm-tf10.lod.glb, public/assets/actors/zm-tf3.glb, public/assets/actors/zm-tf3.lod.glb, public/assets/actors/zm-tf4.glb, public/assets/actors/zm-tf4.lod.glb, public/assets/actors/zm-tf5.glb, public/assets/actors/zm-tf5.lod.glb, public/assets/actors/zm-tf6.glb, public/assets/actors/zm-tf6.lod.glb, public/assets/actors/zm-tf8.glb, public/assets/actors/zm-tf8.lod.glb, public/assets/actors/zm-tf9.glb, public/assets/actors/zm-tf9.lod.glb, public/assets/actors/zm-tfm1.glb, public/assets/actors/zm-tfm1.lod.glb, public/assets/actors/sv-mil01.lt.glb, public/assets/actors/sv-mil02.lt.glb, public/assets/actors/sv-mil04.lt.glb, public/assets/actors/sv-mil05.lt.glb, public/assets/actors/sv-milf01.lt.glb, public/assets/actors/zm-tf10.lt.glb, public/assets/actors/zm-tf4.lt.glb
+
+100 CC0 metal and wood SFX — rubberduck
+  출처: https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a, public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+8 wet squish, slurp impacts — Independent.nu
+  출처: https://opengameart.org/content/8-wet-squish-slurp-impacts
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+80 CC0 creature SFX — rubberduck
+  출처: https://opengameart.org/content/80-cc0-creature-sfx
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+80 CC0 creture SFX #2 — rubberduck
+  출처: https://opengameart.org/content/80-cc0-creture-sfx-2
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+At the end of hope — Emma_MA
+  출처: https://opengameart.org/content/at-the-end-of-hope
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/music-rest.e6705fa1.webm, public/audio/music-rest.e6705fa1.m4a
+
+CC0 Deep Monster Roar — trazzz123
+  출처: https://opengameart.org/content/cc0-deep-monster-roar
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Electricity Sound Effects — BMacZero
+  출처: https://opengameart.org/content/electricity-sound-effects-0
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+Evil Screech 1 — Nocturnal_Vanguard
+  출처: https://opengameart.org/content/evil-screech-1
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Fleshy Bone Break/Snap SFX — Zane Little Music
+  출처: https://opengameart.org/content/fleshy-bone-breaksnap-sfx
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Gun reload sounds — SpringySpringo
+  출처: https://opengameart.org/content/gun-reload-sounds
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+Handgun Reload Sound Effect — zer0_sol
+  출처: https://opengameart.org/content/handgun-reload-sound-effect
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+High-poly AK-47 — Lamoot
+  출처: https://opengameart.org/content/high-poly-ak-47
+  고친 점: 모디파이어 적용·합침, 0.88m 로 축소, 손잡이를 원점으로, 줄임(약 30%), 상자 투영 UV, ambientCG 재질 입힘
+  파일: public/assets/weapons/ak47.glb, public/assets/weapons/ak47.lt.glb
+
+JRPG Pack 5 Action — Juhani Junkala (SubspaceAudio)
+  출처: https://opengameart.org/content/jrpg-pack-5-action
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/music-combat.9ed28bfa.webm, public/audio/music-combat.9ed28bfa.m4a
+
+Mechanical Explosion — Spring Spring
+  출처: https://opengameart.org/content/mechanical-explosion
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/impacts.481e3a32.webm, public/audio/impacts.481e3a32.m4a
+
+Monster snarls — Darsycho
+  출처: https://opengameart.org/content/monster-snarls
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+The Free Firearm Sound Library — Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney
+  출처: https://opengameart.org/content/the-free-firearm-sound-library
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/weapons.9290a555.webm, public/audio/weapons.9290a555.m4a
+
+Zombie moans — Darsycho
+  출처: https://opengameart.org/content/zombie-moans
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Zombie / Skeleton / Monster Voice Effects — ArcadeParty
+  출처: https://opengameart.org/content/zombie-skeleton-monster-voice-effects
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/ui.0cc8eeb3.webm, public/audio/ui.0cc8eeb3.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Zombies Sound Pack — artisticdude
+  출처: https://opengameart.org/content/zombies-sound-pack
+  고친 점: 필요한 부분만 잘라 음량을 맞추고 페이드·필터·피치를 손본 뒤 여러 소리를 한 묶음 파일로 이어 붙여 Opus·AAC 로 다시 인코딩함
+  파일: public/audio/amb.73b706d7.webm, public/audio/amb.73b706d7.m4a, public/audio/zombies.1b523121.webm, public/audio/zombies.1b523121.m4a
+
+Raven — Teh_Bucket (OpenGameArt)
+  출처: https://opengameart.org/node/45471
+  고친 점: 자기 뼈대·동작(fly·stand) 그대로 GLB 로 내보냄, 색 그림 밝기에서 노멀 그림을 만들고 거칠기 0.6, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/fl-raven.glb, public/assets/actors/fl-raven.lod.glb
+
+Barrel_01 — Jorge Camacho
+  출처: https://polyhaven.com/a/Barrel_01
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/barrel.glb, public/assets/env/props/barrel.lt.glb
+
+Ammo Box — DanKit
+  출처: https://polyhaven.com/a/ammo_box
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 40% 로 줄임
+  파일: public/assets/env/props/ammo.glb
+
+Barrel 03 — Serhii Khromov
+  출처: https://polyhaven.com/a/barrel_03
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/barrel2.glb
+
+Barrel Stove — MP
+  출처: https://polyhaven.com/a/barrel_stove
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/stove.glb
+
+Concrete Road Barrier — Amal Kumar
+  출처: https://polyhaven.com/a/concrete_road_barrier
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 10% 로 줄임
+  파일: public/assets/env/props/barrier.glb, public/assets/env/props/barrier.lt.glb
+
+Concrete Road Barrier 02 — Amal Kumar
+  출처: https://polyhaven.com/a/concrete_road_barrier_02
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 20% 로 줄임
+  파일: public/assets/env/props/barrier2.glb, public/assets/env/props/barrier2.lt.glb
+
+Covered Car — MP
+  출처: https://polyhaven.com/a/covered_car
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 50% 로 줄임
+  파일: public/assets/env/props/car.glb, public/assets/env/props/car.lt.glb
+
+Dead Tree Trunk — Rob Tuytel
+  출처: https://polyhaven.com/a/dead_tree_trunk
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 10% 로 줄임
+  파일: public/assets/env/props/trunk.glb, public/assets/env/props/trunk.lt.glb
+
+Dead Tree Trunk 02 — Jenelle van Heerden, Rico Cilliers
+  출처: https://polyhaven.com/a/dead_tree_trunk_02
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 12% 로 줄임
+  파일: public/assets/env/props/trunk2.glb
+
+Dry Branches Medium 01 — Rico Cilliers
+  출처: https://polyhaven.com/a/dry_branches_medium_01
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 20% 로 줄임
+  파일: public/assets/env/props/branches.glb
+
+Freight Station — Sergej Majboroda
+  출처: https://polyhaven.com/a/freight_station
+  고친 점: 8k HDRI 를 세계 방향으로 -150.2° 돌려 조명용 256×128 HDR 과 카메라 시야 부분(2048×768, 밝기 눌러 담은 WebP)으로 나눔
+  파일: public/assets/env/sky-dusk.hdr, public/assets/env/backdrop-dusk.webp
+
+Grass Medium 02 — Rico Cilliers
+  출처: https://polyhaven.com/a/grass_medium_02
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 15% 로 줄임
+  파일: public/assets/env/props/grass.glb
+
+Industrial Wall Lamp — Kuutti Siitonen
+  출처: https://polyhaven.com/a/industrial_wall_lamp
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/lamp.glb
+
+Kloppenheim 04 — Greg Zaal
+  출처: https://polyhaven.com/a/kloppenheim_04
+  고친 점: 8k HDRI 를 세계 방향으로 -130° 돌려 조명용 256×128 HDR 과 카메라 시야 부분(2048×768, 밝기 눌러 담은 WebP)으로 나눔
+  파일: public/assets/env/sky-bloodmoon.hdr, public/assets/env/backdrop-bloodmoon.webp
+
+Kloppenheim 07 — Greg Zaal
+  출처: https://polyhaven.com/a/kloppenheim_07
+  고친 점: 8k HDRI 를 세계 방향으로 -165° 돌려 조명용 256×128 HDR 과 카메라 시야 부분(2048×768, 밝기 눌러 담은 WebP)으로 나눔
+  파일: public/assets/env/sky-night.hdr, public/assets/env/backdrop-night.webp
+
+Metal Jerrycan Green — Ulan Cabanilla
+  출처: https://polyhaven.com/a/metal_jerrycan_green
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 30% 로 줄임
+  파일: public/assets/env/props/jerry.glb
+
+Misty Dawn — Greg Zaal
+  출처: https://polyhaven.com/a/misty_dawn
+  고친 점: 8k HDRI 를 세계 방향으로 -170.7° 돌려 조명용 256×128 HDR 과 카메라 시야 부분(2048×768, 밝기 눌러 담은 WebP)으로 나눔
+  파일: public/assets/env/sky-dawn.hdr, public/assets/env/backdrop-dawn.webp
+
+Modular Electricity Poles — James Ray Cock
+  출처: https://polyhaven.com/a/modular_electricity_poles
+  고친 점: 부품 pole_large·support_large_01·insulators_large 만 골라 조립, 텍스처 512px KTX2·meshopt 압축
+  파일: public/assets/env/props/pole.glb, public/assets/env/props/pole.lt.glb
+
+Namaqualand Boulder 02 — Greg Zaal, Rico Cilliers
+  출처: https://polyhaven.com/a/namaqualand_boulder_02
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 8% 로 줄임
+  파일: public/assets/env/props/boulder.glb
+
+Old Military Compressor — Brian Speight
+  출처: https://polyhaven.com/a/old_military_compressor
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 15% 로 줄임
+  파일: public/assets/env/props/compressor.glb, public/assets/env/props/compressor.lt.glb
+
+Old Military Crate — Jack Mava
+  출처: https://polyhaven.com/a/old_military_crate
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 25% 로 줄임
+  파일: public/assets/env/props/crate2.glb
+
+Old Tyre — MP
+  출처: https://polyhaven.com/a/old_tyre
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 40% 로 줄임
+  파일: public/assets/env/props/tyre.glb
+
+Power Box 01 — Rico Cilliers, Yann Kervran
+  출처: https://polyhaven.com/a/power_box_01
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 30% 로 줄임
+  파일: public/assets/env/props/powerbox.glb
+
+Propane Tank — Slinc
+  출처: https://polyhaven.com/a/propane_tank
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 40% 로 줄임
+  파일: public/assets/env/props/propane.glb
+
+Rusted Wheel Rim 01 — John Hutcheson
+  출처: https://polyhaven.com/a/rusted_wheel_rim_01
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 30% 로 줄임
+  파일: public/assets/env/props/rim.glb
+
+Trashbag — Benny Weimer
+  출처: https://polyhaven.com/a/trashbag
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 30% 로 줄임
+  파일: public/assets/env/props/trash.glb
+
+Tree Stump 01 — Rob Tuytel
+  출처: https://polyhaven.com/a/tree_stump_01
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 15% 로 줄임
+  파일: public/assets/env/props/stump.glb
+
+Utility Box 02 — James Ray Cock
+  출처: https://polyhaven.com/a/utility_box_02
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/utility.glb
+
+Wooden Ladder — Miroslav Turura
+  출처: https://polyhaven.com/a/wooden_ladder
+  고친 점: 텍스처 256px KTX2·meshopt 압축
+  파일: public/assets/env/props/ladder.glb
+
+Wooden Military Crate — Prabhjinder Singh
+  출처: https://polyhaven.com/a/wooden_military_crate
+  고친 점: 텍스처 256px KTX2·meshopt 압축, 정점 20% 로 줄임
+  파일: public/assets/env/props/crate.glb
+
+Worn Metal Rack — Luca B
+  출처: https://polyhaven.com/a/worn_metal_rack
+  고친 점: 텍스처 512px KTX2·meshopt 압축, 정점 40% 로 줄임
+  파일: public/assets/env/props/rack.glb
+
+========================================================================
+MIT License — 6개 · https://opensource.org/license/mit
+저작권 표시와 허가 문구를 원문 그대로 싣습니다.
+========================================================================
+
+Microsoft Rocketbox — Military_Male_05 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Male_05
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/armor.webp, public/assets/cardart/k_berserk.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/move.webp, public/assets/cardart/reload.webp, public/assets/cardart/rescue.webp, public/assets/cardart/shield.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_medic_field.webp, public/assets/cardart/sp_medic_squad.webp, public/assets/cardart/sp_sheriff_gunner.webp, public/assets/cardart/squad.webp, public/assets/cardart/vital.webp
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+Microsoft Rocketbox — Military_Female_01 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Female_01
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/sv-milf01.glb, public/assets/actors/sv-milf01.lt.glb
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+Microsoft Rocketbox — Military_Male_01 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Male_01
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/sv-mil01.glb, public/assets/actors/sv-mil01.lt.glb
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+Microsoft Rocketbox — Military_Male_02 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Male_02
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/sv-mil02.glb, public/assets/actors/sv-mil02.lt.glb
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+Microsoft Rocketbox — Military_Male_04 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Male_04
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/sv-mil04.glb, public/assets/actors/sv-mil04.lt.glb
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+Microsoft Rocketbox — Military_Male_05 — Microsoft (Rocketbox Studios)
+  출처: https://github.com/microsoft/Microsoft-Rocketbox/tree/master/Assets/Avatars/Professions/Military_Male_05
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 얼굴 뼈는 고정), 반사 맵에서 거칠기 맵을 구움, 반투명을 잘라내기로, 텍스처 KTX2·메시 meshopt 압축
+  파일: public/assets/actors/sv-mil05.glb, public/assets/actors/sv-mil05.lod.glb, public/assets/actors/sv-mil05.lt.glb
+------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2020 Microsoft
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+------------------------------------------------------------------------
+
+========================================================================
+Creative Commons Attribution 4.0 International — 29개 · https://creativecommons.org/licenses/by/4.0/
+제목·저작자·출처·라이선스·고친 점을 밝힙니다. 이 자산의 재사용에는 원 라이선스 밖의 제한을 두지 않습니다.
+========================================================================
+
+Medieval crosbow — Cyril43
+  출처: https://sketchfab.com/3d-models/0368b8111f5e4731beb025cd625b48a2
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/crossbow.glb
+
+Assault rifle M4A1 — bobeer (bobeer)
+  출처: https://sketchfab.com/3d-models/1b858701dd7142d9b82bbe3fd121a97b
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/m4.glb
+
+Remington 870 (PBR|GR) — tris.blend (tris09)
+  출처: https://sketchfab.com/3d-models/26e37df4c38c4e8a9da8adeb4b66bff6
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/shotgun.glb
+
+Minigun M-134 — Nik Vega (nik_vega)
+  출처: https://sketchfab.com/3d-models/2961cd5d09844921b045761108956470
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/minigun.glb
+
+GameReady: Colt Python Revolver — HYQQM
+  출처: https://sketchfab.com/3d-models/3def6e3980e64dfa832f298004ce1b94
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/revolver.glb
+
+Apocalyptic Flamethrower — Nazareno_rojas
+  출처: https://sketchfab.com/3d-models/3f3ed85845574db48b4c943161469d14
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/flame.glb
+
+Realistic Human Heart — neshallads
+  출처: https://sketchfab.com/3d-models/3f8072336ce94d18b3d0d055a1ece089
+  고친 점: 부품 고름·합침, 가장 긴 변 1m·가운데 원점으로, 줄임(삼각형 1,200 이하), 재질 512 KTX2 압축
+  파일: public/assets/actors/props/heart.glb
+
+Riot Shield — Foxx Assets (FoxxAssets)
+  출처: https://sketchfab.com/3d-models/6e3d3ea43e6b4f4fbf959607e10f05ca
+  고친 점: 부품 고름·합침, 가장 긴 변 1m·가운데 원점으로, 줄임(삼각형 1,200 이하), 재질 512 KTX2 압축
+  파일: public/assets/actors/props/shield.glb
+
+Cleaver - Butcher's Best Friend — 3dsofsan
+  출처: https://sketchfab.com/3d-models/8b3a394b1e6741e187e15b8dc5075b54
+  고친 점: 손잡이를 원점으로 곧게 세워 전장 0.3m 로, zm-butcher 몸의 오른손뼈에 무게 1 로 붙여 한 메시·한 아틀라스로 합침
+  파일: public/assets/actors/zm-butcher.glb, public/assets/actors/zm-butcher.lod.glb
+
+HK MP5 (9mm submachine gun) — quick_loop (so_O)
+  출처: https://sketchfab.com/3d-models/c503d96157614fb78b5953d49e643b78
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/smg.glb
+
+The Franchi SPAS-12 — Ecler (ecler)
+  출처: https://sketchfab.com/3d-models/dfb4e1671b5b49e7b8a54cd120fc4d9f
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/spas.glb
+
+Coiled Rope 2 — TepidGames
+  출처: https://sketchfab.com/3d-models/e6fe8fedd3d04b1dac3e32e0dd515cbb
+  고친 점: 부품 고름·합침, 가장 긴 변 1m·가운데 원점으로, 줄임(삼각형 1,200 이하), 재질 512 KTX2 압축
+  파일: public/assets/actors/props/rope.glb
+
+M79 Grenade Launcher — denis1.eremin
+  출처: https://sketchfab.com/3d-models/f1309916894a45e3ae6eb24f17f728d4
+  고친 점: 부품 고름·합침, 실제 전장으로 크기 맞춤, 손잡이를 원점·총구를 +Z 로, 줄임(삼각형 1.2만 이하), 재질 512 KTX2 압축
+  파일: public/assets/weapons/m79.glb
+
+Zombie Number 10 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/a9d3d190-893e-4e08-a17d-e7a656eb02c5
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/aim.webp, public/assets/cardart/chain_blast.webp, public/assets/cardart/evo_cannon.webp, public/assets/cardart/evo_rail.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_frost.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/legs.webp, public/assets/cardart/shards.webp, public/assets/cardart/shatter.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_demolition_blast.webp, public/assets/cardart/sp_demolition_burn.webp, public/assets/cardart/sp_mechanic_gun.webp, public/assets/cardart/stun.webp, public/assets/cardart/turret_tesla.webp, public/assets/cardart/wall.webp, public/assets/cardart/wall_frost.webp, public/assets/cardart/wpn_flame.webp, public/assets/cardart/wpn_grenade.webp, public/assets/cardart/wpn_minigun.webp, public/assets/cardart/wpn_sniper.webp
+
+Zombie Number 3 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/09b03d6a-819f-4b79-bde0-8d205dbc34cd
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/aim.webp, public/assets/cardart/blast.webp, public/assets/cardart/chain_blast.webp, public/assets/cardart/drone.webp, public/assets/cardart/evo_hellfire.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/headshot.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_frost.webp, public/assets/cardart/k_turret.webp, public/assets/cardart/pierce.webp, public/assets/cardart/poison.webp, public/assets/cardart/shards.webp, public/assets/cardart/shock.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_demolition_burn.webp, public/assets/cardart/sp_mechanic_gun.webp, public/assets/cardart/turret_mg.webp, public/assets/cardart/wall.webp, public/assets/cardart/wall_push.webp, public/assets/cardart/wpn_minigun.webp, public/assets/cardart/wpn_shock.webp, public/assets/cardart/wpn_smg.webp
+
+Zombie Number 4 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/72f19ad6-45c7-4fd9-9659-145371a0c22d
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/burn_blast.webp, public/assets/cardart/evo_hellfire.webp, public/assets/cardart/evo_rail.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_purist.webp, public/assets/cardart/legs.webp, public/assets/cardart/mark.webp, public/assets/cardart/mine.webp, public/assets/cardart/shards.webp, public/assets/cardart/shock.webp, public/assets/cardart/sp_sheriff_sniper.webp, public/assets/cardart/turret_tesla.webp, public/assets/cardart/wall_frost.webp, public/assets/cardart/wpn_grenade.webp, public/assets/cardart/wpn_minigun.webp
+
+Zombie Number 6 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/e651e65f-3b10-4e0c-b363-b1e72c6204f8
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/aim.webp, public/assets/cardart/blast.webp, public/assets/cardart/chain_blast.webp, public/assets/cardart/evo_cannon.webp, public/assets/cardart/evo_rail.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/headshot.webp, public/assets/cardart/ignite.webp, public/assets/cardart/k_bighead.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_frost.webp, public/assets/cardart/k_oath.webp, public/assets/cardart/k_priest.webp, public/assets/cardart/k_turret.webp, public/assets/cardart/pierce.webp, public/assets/cardart/shield.webp, public/assets/cardart/sp_brawler_berserk.webp, public/assets/cardart/sp_demolition_burn.webp, public/assets/cardart/sp_mechanic_gun.webp, public/assets/cardart/turret_mg.webp, public/assets/cardart/wall.webp, public/assets/cardart/wpn_shotgun.webp
+
+Zombie Number 8 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/79584058-ab08-45d4-a7be-68a65256aa99
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/blast.webp, public/assets/cardart/chain_blast.webp, public/assets/cardart/evo_hellfire.webp, public/assets/cardart/evo_plague.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/frost.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_turret.webp, public/assets/cardart/pierce.webp, public/assets/cardart/shards.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_sheriff_sniper.webp, public/assets/cardart/turret_flame.webp, public/assets/cardart/wall_frost.webp, public/assets/cardart/wall_push.webp, public/assets/cardart/wpn_grenade.webp, public/assets/cardart/wpn_revolver.webp
+
+Zombie Number 9 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/372c8bf9-5cca-49c4-adb2-85fa86846e33
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가. 판 안 장면 조명(해 질 녘 하늘·주광·후처리)으로 렌더한 카드 그림 — 자세·효과(빛·불·연기)를 더하고 WebP 로 압축
+  파일: public/assets/cardart/blast.webp, public/assets/cardart/drone.webp, public/assets/cardart/evo_golden.webp, public/assets/cardart/evo_rail.webp, public/assets/cardart/evo_tesla.webp, public/assets/cardart/k_bulwark.webp, public/assets/cardart/k_frost.webp, public/assets/cardart/k_priest.webp, public/assets/cardart/k_turret.webp, public/assets/cardart/mark.webp, public/assets/cardart/mine.webp, public/assets/cardart/poison.webp, public/assets/cardart/shock.webp, public/assets/cardart/sp_brawler_guard.webp, public/assets/cardart/sp_demolition_blast.webp, public/assets/cardart/wall.webp, public/assets/cardart/wpn_minigun.webp, public/assets/cardart/wpn_smg.webp, public/assets/cardart/wpn_sniper.webp, public/assets/cardart/wpn_xbow.webp
+
+Male Zombie 1 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/986b1ef0-f319-40cd-9020-2936fa6e3ab6
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합침, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tfm1.glb, public/assets/actors/zm-tfm1.lod.glb
+
+Zombie Number 10 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/a9d3d190-893e-4e08-a17d-e7a656eb02c5
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf10.glb, public/assets/actors/zm-tf10.lod.glb, public/assets/actors/zm-tf10.lt.glb
+
+Zombie Number 3 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/09b03d6a-819f-4b79-bde0-8d205dbc34cd
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf3.glb, public/assets/actors/zm-tf3.lod.glb
+
+Zombie Number 4 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/72f19ad6-45c7-4fd9-9659-145371a0c22d
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합침·거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가 — 도살자 몸은 앞치마·식칼을 덧붙임
+  파일: public/assets/actors/zm-tf4.glb, public/assets/actors/zm-tf4.lod.glb, public/assets/actors/zm-butcher.glb, public/assets/actors/zm-butcher.lod.glb, public/assets/actors/zm-tf4.lt.glb
+
+Zombie Number 5 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/1f107011-a1f2-4298-921c-bedf81589b45
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합침·거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf5.glb, public/assets/actors/zm-tf5.lod.glb
+
+Zombie Number 6 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/e651e65f-3b10-4e0c-b363-b1e72c6204f8
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf6.glb, public/assets/actors/zm-tf6.lod.glb
+
+Zombie Number 8 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/79584058-ab08-45d4-a7be-68a65256aa99
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf8.glb, public/assets/actors/zm-tf8.lod.glb
+
+Zombie Number 9 - Animated — Tony Flanagan
+  출처: https://www.fab.com/listings/372c8bf9-5cca-49c4-adb2-85fa86846e33
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합치고 거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-tf9.glb, public/assets/actors/zm-tf9.lod.glb
+
+Zombie Hazmat — LxNazarov
+  출처: https://sketchfab.com/3d-models/zombie-hazmat-49b3b4307f6a4d2386fdb02354158d04
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합침, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-sfhazmat.glb, public/assets/actors/zm-sfhazmat.lod.glb
+
+Zombie Walk Test — oscar_creativo
+  출처: https://sketchfab.com/3d-models/zombie-walk-test-165fd9342c364216bfdd8c2f1102223c
+  고친 점: Mesh2Motion 뼈대(CC0)로 다시 입힘(가중치 그대로, 원본 동작은 뺌), 재질 여럿을 한 장의 아틀라스로 합침·거칠기를 광택에서 뒤집음, 텍스처 줄여 KTX2·메시 meshopt 압축, 군중용 줄인 메시(LOD) 추가
+  파일: public/assets/actors/zm-sfwalk.glb, public/assets/actors/zm-sfwalk.lod.glb
